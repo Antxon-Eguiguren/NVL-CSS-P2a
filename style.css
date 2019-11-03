@@ -1,0 +1,18 @@
+/* Ejercicio de práctica del módulo 2 CSS - Práctica P2a
+
+Define una lista desordenada de nombres, en los que cada uno de los elementos de la lista contenga un color de fondo con el valor “#fabada” (en honor a nuestros queridos asturianos) y el texto en “#000000”. */
+
+li#fab-1 {
+	background-color: #fabada;
+	color: #000000;
+}
+
+li#fab-2 {
+	background-color: #e2e2e2;
+	color: #000000;
+}
+
+li#fab-3 {
+	background-color: #c1c1c1;
+	color: #000000;
+}
